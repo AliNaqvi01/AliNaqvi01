@@ -2,6 +2,8 @@
   
   ### 👋🏼 &nbsp;Hi!
   Second year Computer Engineering student at UWaterloo
+   <img align="right" alt="GIF" width="400px" src="https://i.pinimg.com/originals/23/39/2f/23392f448adabd395f23d9fef99bf64d.gif"/>
+
 </div>
 
 ### ⌨️ &nbsp;Programming Languages and Frameworks
@@ -16,9 +18,6 @@
   <img title="Node.js" alt="Node.js" src="https://i.imgur.com/0Wq50pg.png" height="50px">
   <img title="Firebase" alt="Firebase" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1478529687/zaeoysnccrafp3ikx5or.png" height="50px">
 
-</div>
-<div>
-      <img align="right" alt="GIF" width="400px" src="https://i.pinimg.com/originals/23/39/2f/23392f448adabd395f23d9fef99bf64d.gif"/>
 </div>
 
 
