@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="GIF" width="350px" src="https://im4.ezgif.com/tmp/ezgif-4-27c352147d2d.gif"/>
+  <img align="right" alt="GIF" width="350px" src="https://i.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.webp"/>
   
   ### 👋🏼 &nbsp;Hi!
   Second year Computer Engineering student at UWaterloo
