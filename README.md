@@ -2,14 +2,14 @@
   <img align="right" alt="GIF" width="350px" src="https://im4.ezgif.com/tmp/ezgif-4-27c352147d2d.gif"/>
   
   ### 👋🏼 &nbsp;Hi!
-  - Second year Computer Engineering student at UWaterloo
+  Second year Computer Engineering student at UWaterloo
 </div>
 
 ### ⌨️ &nbsp;Programming Languages and Frameworks
 
 
  <div align="left">
- - <img title="JavaScript" alt="JavaScript" src="https://www.logolynx.com/images/logolynx/cd/cd4ad61c3ca4f67366c71b2eaa47a55c.jpeg" height="50px">
+ <img title="JavaScript" alt="JavaScript" src="https://www.logolynx.com/images/logolynx/cd/cd4ad61c3ca4f67366c71b2eaa47a55c.jpeg" height="50px">
   <img title="Python" alt="Python" src="https://i.imgur.com/WMBWJrH.png" height="50px">
   <img title="Java" alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnYhIwiRWDHMz8JFhdfJt013xMNs1p0jxoMw&usqp=CAU" height="50px">
   <img title="Swift" alt="CSS" src="https://developer.apple.com/swift/images/swift-og.png" height="50px">
