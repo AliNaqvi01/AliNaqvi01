@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 👨🏽‍💻 Second year Computer Engineering student at UWaterloo
+
 <!--
 **AliNaqvi01/AliNaqvi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
