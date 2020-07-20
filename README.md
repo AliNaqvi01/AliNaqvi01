@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="GIF" width="600px" src="https://im4.ezgif.com/tmp/ezgif-4-27c352147d2d.gif"/>
+  <img align="right" alt="GIF" width="300px" src="https://im4.ezgif.com/tmp/ezgif-4-27c352147d2d.gif"/>
   
   ### <img src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/gifs/peepoHey.gif" width="30px"> &nbsp;Hey, I'm Jun
   - I'm a first-year computer engineering student at UWaterloo
