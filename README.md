@@ -23,5 +23,5 @@
 
 ### 📫 &nbsp;Reach Out
 
-[![Gmail Badge](https://img.shields.io/badge/-Jun.Zheng@UWaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:Jun.Zheng@UWaterloo.ca)
+[![Gmail Badge](https://img.shields.io/badge/-sa6naqvi@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:sa6naqvi@uwaterloo.ca)
 [![Linkedin Badge](https://img.shields.io/badge/-Jun_Zheng-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jun-zheng-1666341a9/) 
