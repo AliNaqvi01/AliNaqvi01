@@ -24,4 +24,6 @@
 ### 📫 &nbsp;Reach Out
 
 [![Gmail Badge](https://img.shields.io/badge/-sa6naqvi@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:sa6naqvi@uwaterloo.ca)
-[![Linkedin Badge](https://img.shields.io/badge/-Jun_Zheng-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jun-zheng-1666341a9/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ali_Naqvi-blue?logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/ali-naqvi-a8b263184) 
+[![GitHub Badge](https://img.shields.io/badge/-AliNaqvi01-blue?logo=GitHub&logoColor=white)](https://github.com/AliNaqvi01) 
+
