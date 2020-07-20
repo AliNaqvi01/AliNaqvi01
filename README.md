@@ -1,12 +1,8 @@
 <div>
   <img align="right" alt="GIF" width="400px" src="https://im4.ezgif.com/tmp/ezgif-4-27c352147d2d.gif"/>
   
-  ### <img src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/gifs/peepoHey.gif" width="30px"> &nbsp;Hey, I'm Jun
-  - I'm a first-year computer engineering student at UWaterloo
-  - I enjoy coding, video games and typeracing
-  - I'm interested in software and web development
-  - Twitch enthusiast
-  - Mechanical keyboard fan
+  ### <img src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/gifs/peepoHey.gif" width="30px"> &nbsp;Hi!
+  - Second year Computer Engineering student at UWaterloo
 </div>
 
 ### <img src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/gifs/peepoChat.gif" width="30px"> &nbsp;Programming & Markup Languages 
