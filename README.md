@@ -1,7 +1,7 @@
 <div>
   <img align="right" alt="GIF" width="350px" src="https://im4.ezgif.com/tmp/ezgif-4-27c352147d2d.gif"/>
   
-  ### 👋🏼 nbsp;Hi!
+  ### 👋🏼 &nbsp;Hi!
   - Second year Computer Engineering student at UWaterloo
 </div>
 
