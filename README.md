@@ -5,7 +5,7 @@
   ### 👋🏼 &nbsp;Hi!
   Second year Computer Engineering student at UWaterloo
 
-### ⌨️ &nbsp;Programming Languages and Frameworks
+### ⌨️ &nbsp;Some Languages and Frameworks
 
 
  <p align="left">
