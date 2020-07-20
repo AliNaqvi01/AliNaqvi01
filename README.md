@@ -1,11 +1,11 @@
 <div>
   <img align="right" alt="GIF" width="350px" src="https://im4.ezgif.com/tmp/ezgif-4-27c352147d2d.gif"/>
   
-  ### <img src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/gifs/peepoHey.gif" width="30px"> &nbsp;Hi!
+  ### 👋🏼 nbsp;Hi!
   - Second year Computer Engineering student at UWaterloo
 </div>
 
-### <img src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/gifs/peepoChat.gif" width="30px"> &nbsp;Programming Languages and Frameworks
+### ⌨️ &nbsp;Programming Languages and Frameworks
 
 <div align="left">
   <img title="JavaScript" alt="JavaScript" src="https://www.logolynx.com/images/logolynx/cd/cd4ad61c3ca4f67366c71b2eaa47a55c.jpeg" height="50px">
@@ -14,11 +14,10 @@
   <img title="Swift" alt="CSS" src="https://developer.apple.com/swift/images/swift-og.png" height="50px">
   <img title="React" alt="React" src="https://i.imgur.com/OtKJaZb.jpg" height="50px">
   <img title="Node.js" alt="Node.js" src="https://i.imgur.com/0Wq50pg.png" height="50px">
-  <img title="LaTeX" alt="LaTeX" src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/icons/LaTeX.png" height="40px">
+  <img title="Firebase" alt="Firebase" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1478529687/zaeoysnccrafp3ikx5or.png" height="50px">
 </div>
 
-### <img src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/gifs/PeepoJuice.gif" width="30px"> &nbsp;Reach Out
+### 📫 &nbsp;Reach Out
 
 [![Gmail Badge](https://img.shields.io/badge/-Jun.Zheng@UWaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:Jun.Zheng@UWaterloo.ca)
 [![Linkedin Badge](https://img.shields.io/badge/-Jun_Zheng-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jun-zheng-1666341a9/) 
-![Discord Badge](https://img.shields.io/badge/-Akiba%231001-lightgrey?logo=Discord&logoColor=white)
