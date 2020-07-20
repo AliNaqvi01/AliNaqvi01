@@ -1,6 +1,6 @@
 <p align="left">
-   <img align="right" alt="GIF" width="400px" src="https://i.pinimg.com/originals/23/39/2f/23392f448adabd395f23d9fef99bf64d.gif"/>
 </p>
+   <img align="right" alt="GIF" width="400px" src="https://i.pinimg.com/originals/23/39/2f/23392f448adabd395f23d9fef99bf64d.gif"/>
 
   ### 👋🏼 &nbsp;Hi!
   Second year Computer Engineering student at UWaterloo
