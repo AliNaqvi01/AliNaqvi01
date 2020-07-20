@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 👨🏽‍💻 Second year Computer Engineering student at UWaterloo
+![VueJS](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/367_Vuejs-512.png)
+
 
 <!--
 **AliNaqvi01/AliNaqvi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
