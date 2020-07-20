@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="GIF" width="600px" src="https://icon-library.com/images/frontend-icon/frontend-icon-17.jpg"/>
+  <img align="right" alt="GIF" width="600px" src="https://thumbs.gfycat.com/EachNiftyGreatdane-mobile.mp4"/>
   
   ### <img src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/gifs/peepoHey.gif" width="30px"> &nbsp;Hey, I'm Jun
   - I'm a first-year computer engineering student at UWaterloo
