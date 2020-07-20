@@ -9,7 +9,7 @@
 
 <div align="left">
   <img title="JavaScript" alt="JavaScript" src="https://www.logolynx.com/images/logolynx/cd/cd4ad61c3ca4f67366c71b2eaa47a55c.jpeg" height="50px">
-  <img title="Python" alt="Python" src="https://www.sololearn.com/Icons/Courses/1073_web.png" height="50px">
+  <img title="Python" alt="Python" src="https://docplayer.ru/docs-images/71/65491498/images/2-2.jpg" height="50px">
   <img title="Java" alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnYhIwiRWDHMz8JFhdfJt013xMNs1p0jxoMw&usqp=CAU" height="50px">
   <img title="CSS" alt="CSS" src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/icons/CSS.png" height="40px">
   <img title="PHP" alt="PHP" src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/icons/PHP.png" height="40px">
