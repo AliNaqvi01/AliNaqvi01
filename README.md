@@ -7,9 +7,7 @@
 
 ### ⌨️ &nbsp;Some Languages and Frameworks
 
-<p>
-•
-</p>
+
  <p align="left">
 <img title="JavaScript" alt="JavaScript" src="https://www.logolynx.com/images/logolynx/cd/cd4ad61c3ca4f67366c71b2eaa47a55c.jpeg" height="50px">
  <img title="Python" alt="Python" src="https://i.imgur.com/WMBWJrH.png" height="50px">
