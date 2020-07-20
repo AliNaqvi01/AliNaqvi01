@@ -1,5 +1,5 @@
 <p align="left">
-      <img align="left" alt="GIF" width="400px" src="https://i.pinimg.com/originals/23/39/2f/23392f448adabd395f23d9fef99bf64d.gif"/>
+      <img align="left" alt="GIF" width="400px" src="https://i.gifer.com/PSHN.gif"/>
 </p>
 
   ### 👋🏼 &nbsp;Hi!
