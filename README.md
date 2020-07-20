@@ -3,7 +3,7 @@
 </p>
 
   ### 👋🏼 &nbsp;Hi!
-•  Second year Computer Engineering student at UWaterloo
+-> Second year Computer Engineering student at UWaterloo
 
 ### ⌨️ &nbsp;Some Languages and Frameworks
 
