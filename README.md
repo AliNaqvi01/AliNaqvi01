@@ -13,7 +13,7 @@
   <img title="Java" alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnYhIwiRWDHMz8JFhdfJt013xMNs1p0jxoMw&usqp=CAU" height="50px">
   <img title="Swift" alt="CSS" src="https://developer.apple.com/swift/images/swift-og.png" height="50px">
   <img title="React" alt="React" src="https://i.imgur.com/OtKJaZb.jpg" height="50px">
-  <img title="MySQL" alt="MySQL" src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/icons/MySQL.png" height="40px">
+  <img title="Node.js" alt="Node.js" src="https://i.imgur.com/0Wq50pg.png" height="50px">
   <img title="LaTeX" alt="LaTeX" src="https://github.com/JunZheng-dev/JunZheng-dev/blob/master/res/icons/LaTeX.png" height="40px">
 </div>
 
