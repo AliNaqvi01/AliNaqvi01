@@ -4,7 +4,7 @@
 
   👋🏼  ⠀ ***Hi!*** </br>
   
- ```I'm a second year Computer Engineering student at UWaterloo```
+      ```I'm a second year Computer Engineering student at UWaterloo```
 
 
 
