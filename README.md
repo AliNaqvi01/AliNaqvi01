@@ -1,13 +1,13 @@
 <p align="left">
-      <img align="left" alt="GIF" width="450px" src="https://thecreatorsproject-images.vice.com/content-images/contentimage/no-slug/f8cf30cbdcd8133af37d4b2d85b59713.jpg"/>
+      <img align="left" alt="GIF" width="400px" src="https://thecreatorsproject-images.vice.com/content-images/contentimage/no-slug/f8cf30cbdcd8133af37d4b2d85b59713.jpg"/>
 </p>
 
- ## 👋🏼  ⠀ ***Hi!***
-**I'm a second year Computer Engineering student at UWaterloo**
+  👋🏼  ⠀ ***Hi!***
+ ```I'm a second year Computer Engineering student at UWaterloo```
 
 
 
- ## ⌨️  ⠀***Some Languages and Frameworks***
+ ⌨️  ⠀***Some Languages and Frameworks***
 
 
  <p align="left">
@@ -27,7 +27,7 @@
 
 <p>
 
-## 📫  ⠀***Contact***
+📫  ⠀***Contact***
 
 [![Gmail Badge](https://img.shields.io/badge/-sa6naqvi@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:sa6naqvi@uwaterloo.ca)
 [![Linkedin Badge](https://img.shields.io/badge/-Ali_Naqvi-blue?logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/ali-naqvi-a8b263184) 
