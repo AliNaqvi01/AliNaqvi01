@@ -1,12 +1,14 @@
 <p align="left">
       <img align="left" alt="GIF" width="400px" src="https://thecreatorsproject-images.vice.com/content-images/contentimage/no-slug/f8cf30cbdcd8133af37d4b2d85b59713.jpg"/>
 </p>
-
+<p>
 
 
   👋🏼 ***Hi!***
 
 I'm a second year Computer Engineering student at UWaterloo
+</p>
+
 
  ⌨️ ***Some Languages and Frameworks***
 
@@ -23,6 +25,8 @@ I'm a second year Computer Engineering student at UWaterloo
   <img title="Firebase" alt="Firebase" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1478529687/zaeoysnccrafp3ikx5or.png" height="50px">
 
 </p>
+
+
 
 <p>
 
