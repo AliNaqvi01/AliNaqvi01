@@ -2,9 +2,9 @@
       <img align="left" alt="GIF" width="400px" src="https://thecreatorsproject-images.vice.com/content-images/contentimage/no-slug/f8cf30cbdcd8133af37d4b2d85b59713.jpg"/>
 </p>
 
-\n
+&nbsp;
 
-  ### 👋🏼 Hi!
+ ### 👋🏼 Hi!
 -> Second year Computer Engineering student at UWaterloo
 
 ### ⌨️ Some Languages and Frameworks
