@@ -2,7 +2,7 @@
       <img align="left" alt="GIF" width="350px" src="https://thumbs.gfycat.com/PerfumedDevotedHagfish-size_restricted.gif"/>
 </p>
 
-  👋🏼  ⠀ ***Hi!*** </br>
+  ## 👋🏼  ⠀ ***Hi!*** </br>
   
       I'm a Computer Engineering student at UWaterloo
 
