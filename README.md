@@ -4,13 +4,13 @@
 <p>
 
 
-   👋🏼   ***Hi!***
+   👋🏼  ⠀ ***Hi!***
 
 I'm a second year Computer Engineering student at UWaterloo
 </p>
 
 
-   ⌨️  ***Some Languages and Frameworks***
+   ⌨️  ⠀***Some Languages and Frameworks***
 
 
  <p align="left">
@@ -30,7 +30,7 @@ I'm a second year Computer Engineering student at UWaterloo
 
 <p>
 
-  📫  ***Contact***
+  📫  ⠀***Contact***
 
 [![Gmail Badge](https://img.shields.io/badge/-sa6naqvi@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:sa6naqvi@uwaterloo.ca)
 [![Linkedin Badge](https://img.shields.io/badge/-Ali_Naqvi-blue?logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/ali-naqvi-a8b263184) 
