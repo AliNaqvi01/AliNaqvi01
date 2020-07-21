@@ -5,7 +5,8 @@
 
 
  ## 👋🏼 Hi!
--> Second year Computer Engineering student at UWaterloo
+
+Second year Computer Engineering student at UWaterloo
 
 ## ⌨️ Some Languages and Frameworks
 
