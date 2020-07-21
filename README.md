@@ -5,7 +5,7 @@
 <h1>
 
 
- # 👋🏼  ⠀ ***Hi!***
+ ## 👋🏼  ⠀ ***Hi!***
 
 **I'm a second year Computer Engineering student at UWaterloo**
 </h1>
