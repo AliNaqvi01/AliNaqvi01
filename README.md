@@ -1,5 +1,5 @@
 <p align="left">
-      <img align="left" alt="GIF" width="400px" src="https://thumbs.gfycat.com/PerfumedDevotedHagfish-size_restricted.gif"/>
+      <img align="left" alt="GIF" width="350px" src="https://thumbs.gfycat.com/PerfumedDevotedHagfish-size_restricted.gif"/>
 </p>
 
   👋🏼  ⠀ ***Hi!*** </br>
