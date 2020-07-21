@@ -8,7 +8,7 @@
 
 
 
- ⌨️  ⠀***Some of my skills***
+## ⌨️  ⠀***Some of my skills***
 
 
  <p align="left">
@@ -28,7 +28,7 @@
 
 <p>
 
-📫  ⠀***Contact me***
+## 📫  ⠀***Contact me***
 
 [![Gmail Badge](https://img.shields.io/badge/-sa6naqvi@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:sa6naqvi@uwaterloo.ca)
 [![Linkedin Badge](https://img.shields.io/badge/-Ali_Naqvi-blue?logo=Linkedin&logoColor=white)](https://ca.linkedin.com/in/ali-naqvi-a8b263184) 
