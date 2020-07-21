@@ -1,5 +1,5 @@
 <p align="left">
-      <img align="left" alt="GIF" height="400px" src="https://hackernoon.com/drafts/f2px36fy.png"/>
+      <img align="left" alt="GIF" height="400px" src="https://im4.ezgif.com/tmp/ezgif-4-3fbcadec6cc8.gif"/>
 </p>
 
   ## 👋🏼  ⠀ ***Hi!*** </br>
