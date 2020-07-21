@@ -1,5 +1,5 @@
 <p align="left">
-      <img align="left" alt="GIF" height="360px" src="https://im4.ezgif.com/tmp/ezgif-4-3fbcadec6cc8.gif"/>
+      <img align="left" alt="GIF" height="363px" src="https://im4.ezgif.com/tmp/ezgif-4-3fbcadec6cc8.gif"/>
 </p>
 
   ## 👋🏼  ⠀ ***Hi!*** </br>
