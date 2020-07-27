@@ -1,5 +1,5 @@
 <p align="left">
-      <img align="left" alt="GIF" height="365px" src="https://static.designboom.com/wp-content/uploads/2018/05/docubyte-i-am-a-computer-designboom-06.gif"/>
+      <img align="left" alt="GIF" height="365px" object-cover="fit" src="https://static.designboom.com/wp-content/uploads/2018/05/docubyte-i-am-a-computer-designboom-06.gif"/>
 </p>
 
   ## 👋🏼  ⠀ ***Hi!*** </br>
