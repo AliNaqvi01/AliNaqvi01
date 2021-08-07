@@ -11,7 +11,7 @@
 ## ⌨️  ⠀***Some of my skills***
 
 
- <p align="left" display="block">
+ <p style="color:red;" "display="block">
 <img title="JavaScript" alt="JavaScript" src="https://www.logolynx.com/images/logolynx/cd/cd4ad61c3ca4f67366c71b2eaa47a55c.jpeg" height="50px">
  <img title="Python" alt="Python" src="https://i.imgur.com/WMBWJrH.png" height="50px">
   <img title="Java" alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnYhIwiRWDHMz8JFhdfJt013xMNs1p0jxoMw&usqp=CAU" height="50px">
